@@ -1,0 +1,23 @@
+{
+  "name": "bck_marionette",
+  "version": "0.0.0",
+  "directory": "./app/bower_components",
+  "dependencies": {
+    "sass-bootstrap": "~3.0.2",
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.19",
+    "requirejs-text": "~2.0.14",
+    "backbone-amd": "~1.1.0",
+    "underscore-amd": "~1.5.2",
+    "modernizr": "~2.8.3",
+    "backbone.marionette": "~2.4.2",
+    "backbone.wreqr": "~1.3.3",
+    "backbone.babysitter": "~0.1.8",
+    "require-handlebars-plugin": "~0.11.3",
+    "mocha": "~2.2.5",
+    "chai": "~3.0.0",
+    "sinon": "~1.15.4",
+    "gsap": "~1.17.0"
+  },
+  "devDependencies": {}
+}
